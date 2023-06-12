@@ -26,4 +26,9 @@
   - Learn how to run complex tasks in the background with GCD.
 - Project 10: Names to Faces
   - Get started with UICollectionView and the photo library.
-
+- Project 11: Pachinko
+  - Dive into SpriteKit to try your hand as fast 2D games.
+- Project 12: UserDefaults
+  - Learn how to save user settings and data for later use.
+- Project 13: Instafilter
+  - Make a photo manipulation program using Core Image filters and a UISlider.
