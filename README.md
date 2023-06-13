@@ -36,3 +36,5 @@
   - Build a game using SKCropNode and a sprinkling of Grand Central Dispatch
 - Project 15: Animation
   - Bring your interfaces to life with animation, and meet switch/case at the same time.
+- Project 16: Capital Cities
+  - Teach users about geography while you learn about MKMapView and annotations.
