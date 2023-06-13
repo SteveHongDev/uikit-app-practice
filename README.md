@@ -32,3 +32,7 @@
   - Learn how to save user settings and data for later use.
 - Project 13: Instafilter
   - Make a photo manipulation program using Core Image filters and a UISlider.
+- Project 14: Whack-a-Penguin
+  - Build a game using SKCropNode and a sprinkling of Grand Central Dispatch
+- Project 15: Animation
+  - Bring your interfaces to life with animation, and meet switch/case at the same time.
