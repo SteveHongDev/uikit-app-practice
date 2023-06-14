@@ -38,3 +38,10 @@
   - Bring your interfaces to life with animation, and meet switch/case at the same time.
 - Project 16: Capital Cities
   - Teach users about geography while you learn about MKMapView and annotations.
+- Project 17: Space Race
+  - Dodge space debris while you learn about per=pixel collision detection
+- Project 18: Debugging - NOT PROJECT
+- Project 19: JavaScript Injection
+  - Extend Safari with a cool feature for JavaScript developers.
+- Project 20: Fireworks Night
+  - Learn about timers and color blends while making things go bang!
